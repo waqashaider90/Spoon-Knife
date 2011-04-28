@@ -1,3 +1,7 @@
 Testing
 Branch
+<<<<<<< HEAD
 Next Step!!
+=======
+Branchhhh
+>>>>>>> mybranch
